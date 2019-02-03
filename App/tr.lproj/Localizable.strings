@@ -1,0 +1,605 @@
+/* Special Thanks */
+"ABOUT_SPECIAL_THANKS_SECTION_TITLE" = "Özel Teşekkürler";
+
+/* Double tap to mark as watched */
+"ACCESSIBILITY_HINT_MOVIE_NOT_WATCHED" = "İzlendi olarak işaretlemek için çift dokunun";
+
+/* Double tap to mark as unwatched */
+"ACCESSIBILITY_HINT_MOVIE_WATCHED" = "İzlenmemiş olarak işaretlemek için çift dokunun";
+
+/* No overview availiable yet. */
+"ACCESSIBILITY_LABEL_NO_OVERVIEW" = "Henüz özet yok";
+
+/* Movie not watched */
+"ACCESSIBILITY_VALUE_MOVIE_NOT_WATCHED" = "Film izlenmemiş";
+
+/* Movie Watched */
+"ACCESSIBILITY_VALUE_MOVIE_WATCHED" = "Film İzlenmiş";
+
+/* Birthday Unknown */
+"ACTOR_BIRTHDAY_UNKNOWN" = "Doğum Günü Bilinmiyor";
+
+/* Importing */
+"ALERT.TITLE.IMPORTING" = "İçe aktarılıyor";
+
+/* Local data exists */
+"ALERT.TITLE.LOCAL_DATA_EXISTS" = "Yerel veri mevcut";
+
+/* Cancel */
+"ALERT_ACTION_CANCEL" = "İptal";
+
+/* Delete */
+"ALERT_ACTION_DELETE" = "Sil";
+
+/* Dismiss */
+"ALERT_ACTION_DISMISS" = "Geç";
+
+/* Edit */
+"ALERT_ACTION_EDIT" = "Düzenle";
+
+/* Mark as Unwatched Now */
+"ALERT_ACTION_MARK_AS_UNWATCHED_NOW" = "Şimdi İzlenmemiş Olarak İşaretle";
+
+/* Mark as Watched Now */
+"ALERT_ACTION_MARK_AS_WATCHED_NOW" = "Şimdi İzlenmemiş Olarak İşaretle";
+
+/* Mark as Watched On Custom Date */
+"ALERT_ACTION_MARK_AS_WATCHED_ON_CUSTOM_DATE" = "Seçili Günde İzlenmiş Olarak İşaretle";
+
+/* Mark as Watched On Release Date */
+"ALERT_ACTION_MARK_AS_WATCHED_ON_RELEASE_DATE" = "Çıkış Tarihinde İzlenmiş Olarak İşaretle";
+
+/* No */
+"ALERT_ACTION_NO" = "Hayır";
+
+/* Save poster */
+"ALERT_ACTION_COPY_POSTER" = "Save poster";
+
+/* Copy poster */
+"ALERT_ACTION_SAVE_POSTER" = "Copy poster";
+
+/* Yes */
+"ALERT_ACTION_YES" = "Evet";
+
+/* Please Wait... */
+"ALERT.MESSAGE.PLEASE_WAIT" = "Lütfen Bekleyin...";
+
+/* Would you like to overwrite this data? */
+"ALERT.MESSAGE.LOCAL_DATA_EXISTS" = "Bu verinin üzerine yazmak ister misiniz?";
+
+/* No iCloud account found */
+"ALERT_MESSAGE_ICLOUD_SIGN_IN" = "Hiçbir iCloud hesabı bulunamadı";
+
+/* Please make sure you are connected to the internet */
+"ALERT_MESSAGE_NO_INTERNET" = "Lütfen internet bağlantınız olduğundan emin olun";
+
+/* No Results for %@ were found. */
+"ALERT_MESSAGE_NO_RESULTS" = "%@ için sonuç bulunamadı";
+
+/* Searching iTunes */
+"ALERT_MESSAGE_SEARCHING_ITUNES" = "iTunes'da aranıyor";
+
+/* Error */
+"ALERT_TITLE_ERROR" = "Hata";
+
+/* Failed to create calendar */
+"ALERT_TITLE_FAILED_TO_CREATE_CALENDAR" = "Takvim oluşturulurken hata oluştu";
+
+/* Please Sign In to iCloud */
+"ALERT_TITLE_ICLOUD_SIGN_IN" = "Lütfen iCloud'a giriş yapın";
+
+/* No Internet Connection */
+"ALERT_TITLE_NO_INTERNET" = "İnternet Bağlantısı Yok";
+
+/* No Results */
+"ALERT_TITLE_NO_RESULTS" = "Sonuç Yok";
+
+/* Syncing with iCloud */
+"ALERT_TITLE_SYNCING_WITH_ICLOUD" = "iCloud ile Eş Zamanlanıyor";
+
+/* Please turn off iCloud sync before syncing with Trakt.tv */
+"ALERT_TITLE_TURN_OFF_ICLOUD" = "Lütfen Trakt.tv ile eş zamanlamadan önce iCloud eş zamanlamasını kapatın";
+
+/* Back */
+"BACK_BAR_ITEM_BACK" = "Geri";
+
+/* Backup */
+"BACKUPS_ACTION_BACKUP" = "Yedek";
+
+/* Export */
+"BACKUPS_ACTION_EXPORT" = "Dışa aktar";
+
+/* Restore */
+"BACKUPS_ACTION_RESTORE" = "Geri yükle";
+
+/* Import Backup */
+"BACKUPS_ACTION_IMPORT_BACKUP" = "Yedeği İçe Aktar";
+
+/* No Backups Available */
+"BACKUPS_NO_BACKUP_AVAILABLE" = "Hiç Yedek Yok";
+
+/* Backups */
+"BACKUPS_TITLE" = "Yedekler";
+
+/* Badge App Icon Enabled */
+"BADGE_ENABLED" = "Uygulama İşareti Sayısı Etkin";
+
+/* Create */
+"BAR_BUTTON_ITEM_CREATE_LIST" = "Oluştur";
+
+/* Cast */
+"CAST_CREW_HEADER_TITLE_CAST" = "Oyuncular";
+
+/* Crew */
+"CAST_CREW_HEADER_TITLE_CREW" = "Çekim Ekibi";
+
+/* Cast & Crew */
+"CAST_CREW_NAVIGATION_TITLE" = "Oyuncular ve Çekim Ekibi";
+
+/* No Cast Information */
+"CAST_CREW_NO_CAST" = "Oyuncu Bilgisi Yok";
+
+/* No Crew Information */
+"CAST_CREW_NO_CREW" = "Çekim Ekibi Bilgisi Yok";
+
+/* Sync with Cloud */
+"CLOUD_SYNC_WITH_CLOUD" = "iCloud ile Eş Zamanla";
+
+/* No Comments */
+"COMMENTS_NO_COMMENTS" = "Yorum Yok";
+
+/* Comments */
+"COMMENTS_TITLE" = "Yorumlar";
+
+/* Anonymous */
+"COMMENTS_ANONYMOUS_NAME" = "Anonim";
+
+/* Pick Date */
+"DATE_PICKER_TITLE" = "Tarih Seç";
+
+/* Collection of movies from every list */
+"DEFAULT_LIST_DESCRIPTION" = "Tüm listelerdeki filmlerden oluşan koleksiyon";
+
+/* All Movies */
+"DEFAULT_LIST_TITLE" = "Tüm Filmler";
+
+/* Box Office */
+"DISCOVER_SOURCE_BOX_OFFICE_TITLE" = "Gişe";
+
+/* Popular */
+"DISCOVER_SOURCE_POPULAR_TITLE" = "Popüler";
+
+/* Trending */
+"DISCOVER_SOURCE_TRENDING_TITLE" = "Öne Çıkan";
+
+/* Discover */
+"DISCOVER_TITLE" = "Keşfet";
+
+/* View All */
+"DISCOVER.ACTION.VIEW_ALL" = "View All";
+
+/* Allow Comments */
+"EDIT_LISTS_OPTION_ALLOW_COMMENTS" = "Yorumlara İzin Ver";
+
+/* Display Rank */
+"EDIT_LISTS_OPTION_DISPLAY_RANK" = "Sıralamayı Göster";
+
+/* Friends */
+"EDIT_LISTS_OPTION_PRIVACY_FRIENDS" = "Arkadaşlar";
+
+/* Private */
+"EDIT_LISTS_OPTION_PRIVACY_PRIVATE" = "Özel";
+
+/* Public */
+"EDIT_LISTS_OPTION_PRIVACY_PUBLIC" = "Herkese Açık";
+
+/* New List */
+"EDIT_LISTS_TITLE" = "Yeni Liste";
+
+/* Empty */
+"EMPTY_TITLE" = "Boş";
+
+/* Failed to load */
+"FAILED_TO_LOAD" = "Yüklemede hata oluştu";
+
+/* Used as a title in a table view cell / navigation bar */
+"HIDDEN_MOVIES.TITLE" = "Gizlenmiş Filmler";
+
+/* Used as a title in a table view cell / navigation bar */
+"HISTORY.TITLE" = "Geçmiş";
+
+/* Image cache size */
+"IMAGE_SETTINGS_CACHE_SIZE" = "Görüntü önbellek boyutu";
+
+/* Clear and Redownload images */
+"IMAGE_SETTINGS_CLEAR_IMAGES" = "Görüntüleri Temizle ve Yeniden indir";
+
+/* XML file is in incorrect format */
+"IMPORT.ERROR.XML_WRONG_FORMAT" = "XML dosyası biçimi hatalı";
+
+/* Skip */
+"IMPORT.SKIP" = "Atla";
+
+/* Automatic */
+"LANGUAGE_OPTION_AUTOMATIC" = "Otomatik";
+
+/* Handoff will share the selected URL to your other devices to open */
+"LINKS_HANDOFF_EXPLANATION" = "Handoff diğer cihazınızda açmak için seçili URL'yi paylaşacak";
+
+/* Handoff */
+"LINKS_HANDOFF_TITLE" = "Handoff";
+
+/* None */
+"LINKS_OPTION_NONE" = "Hiçbiri";
+
+/* Sharing */
+"LINKS_SHARING_TITLE" = "Paylaşma";
+
+/* Edit Lists */
+"LISTS.EDIT" = "Listeleri Düzenle";
+
+/* Lists */
+"LISTS_TITLE" = "Listeler";
+
+/* Loading... */
+"LOADING_TITLE" = "Yükleniyor...";
+
+/* Mark as Watched */
+"LONG_PRESS_MOVIE_WATCH" = "İzlenmiş Olarak İşaretle";
+
+/* Action menu item for long-press / 3D touch on top of a movie */
+"MOVIE.ACTION.ADD_TO_COLLECTION" = "Koleksiyona Ekle";
+
+/* Add to Watchlist */
+"MOVIE.ACTION.ADD_TO_WATCHLIST" = "İzlenecek listesine ekle";
+
+/* Checkin */
+"MOVIE.ACTION.CHECKIN" = "Bildir";
+
+/* Cancel Checkin */
+"MOVIE.ACTION.CANCEL_CHECKIN" = "İzleniyor bildirimini iptal et";
+
+/* Finish Checkin */
+"MOVIE.ACTION.FINISH_CHECKIN" = "İzleniyor bildirimini bitir";
+
+/* Remove All Plays */
+"MOVIE.ACTION.REMOVE_ALL_PLAYS" = "Tüm Oynatmaları Sil";
+
+/* Action menu item for long-press / 3D touch on top of a movie */
+"MOVIE.ACTION.REMOVE_FROM_WATCHLIST" = "İzleme Listesinden Kaldır";
+
+/* Action menu item for long-press / 3D touch on top of a movie */
+"MOVIE.ACTION.REMOVE_FROM_COLLECTION" = "Koleksiyondan Kaldır";
+
+/* Remove Last Play */
+"MOVIE.ACTION.REMOVE_LAST_PLAY" = "Son Oynatımı Sil";
+
+/* View Plays */
+"MOVIE.ACTION.VIEW_PLAYS" = "Oynatımları Göster";
+
+/* Used when long-pressing / 3D Touching on top of a movie */
+"MOVIE.ACTION.WATCH.OPTIONS" = "İzleme Seçenekleri";
+
+/* Mark as Unwatched */
+"MOVIE_ACTION_MARK_AS_UNWATCHED" = "İzlenmemiş Oolarak İşaretle";
+
+/* Mark as Watched */
+"MOVIE_ACTION_MARK_AS_WATCHED" = "İzlenmiş Olarak İşaretle";
+
+/* Cast & Crew */
+"MOVIE_INFO_CAST_CREW_BUTTON_TITLE" = "Oyuncular ve Çekim Ekibi";
+
+/* Certification */
+"MOVIE_INFO_CERTIFICATION_TITLE" = "Mevzuat";
+
+/* Comments */
+"MOVIE_INFO_COMMENTS_BUTTON_TITLE" = "Yorumlar";
+
+/* Genres */
+"MOVIE_INFO_GENRES_TITLE" = "Tarzlar";
+
+/* No Genres */
+"MOVIE_INFO_NO_GENRES" = "Tarz Yok";
+
+/* Not Available */
+"MOVIE_INFO_NOT_AVAILABLE" = "Mevcut Değil";
+
+/* Not Rated Yet */
+"MOVIE_INFO_NOT_RATED_TITLE" = "Değerlendirilmedi";
+
+/* Content title; Used on Movie information detail view */
+"MOVIE_INFO_OVERVIEW_TITLE" = "Genel Bakış";
+
+/* Rated */
+"MOVIE_INFO_RATING_TITLE" = "Derecelendirme";
+
+/* Content title; Used on Movie information detail view */
+"MOVIE_INFO_RELEASE_DATE_TITLE" = "Yayın Tarihi";
+
+/* Content title; Used on Movie information detail view */
+"MOVIE_INFO_RELEASE_DATE_UPCOMING_TITLE" = "Yayınlar";
+
+/* Content title; Used on Movie information detail view */
+"MOVIE_INFO_RUNTIME_TITLE" = "Süre";
+
+/* Button title; Used throughout the App */
+"MOVIE_INFO_SHARE_BUTTON_TITLE" = "Paylaş";
+
+/* Open in iTunes */
+"MOVIE_INFO_STORE_BUTTON_TITLE" = "iTunes'da Aç";
+
+/* Filter by */
+"MOVIES.FILTER.TITLE" = "Filtrele";
+
+/* Filter movies by all; action menu item */
+"MOVIES.FILTER.OPTION.ALL" = "All";
+
+/* Filter movies to show only the watched ones; action menu item */
+"MOVIES.FILTER.OPTION.WATCHED" = "İzlenmiş";
+
+/* Filtersmovies to show only the unwatched ones; action menu item */
+"MOVIES.FILTER.OPTION.NOT_WATCHED" = "İzlenmemiş";
+
+/* Filter movies to show which ones have already been released; action menu item */
+"MOVIES.FILTER.OPTION.RELEASED" = "Released";
+
+/* Filter movies to show which ones have not been released; action menu item */
+"MOVIES.FILTER.OPTION.NOT_RELEASED" = "Upcoming";
+
+/* Sort by */
+"MOVIES.SORT.TITLE" = "Sırala";
+
+/* Rank */
+"MOVIES.SORT.OPTION.RANK" = "Sıra";
+
+/* Alphabetical */
+"MOVIES.SORT.OPTION.ALPHABETICAL" = "Alfabetik";
+
+/* Release Date Ascending */
+"MOVIES.SORT.OPTION.RELEASE_DATE_ASCENDING" = "Yayın Tarihi Artan";
+
+/* Release Date Descending */
+"MOVIES.SORT.OPTION.RELEASE_DATE_DESCENDING" = "Yayın Tarihi Azalan";
+
+/* Watched date */
+"MOVIES.SORT.OPTION.WATCHED_DATE" = "İzleme tarihi";
+
+/* Runtime */
+"MOVIES.SORT.OPTION.RUNTIME" = "Süre";
+
+/* Genre */
+"MOVIES.SORT.OPTION.GENRE" = "Tarz";
+
+/* Rating */
+"MOVIES.SORT.OPTION.RATING" = "Derece";
+
+/* Rebuild Calendar */
+"CAL_ACTION_REBUILD" = "Takvimi Yeniden Oluştur";
+
+/* Free */
+"CAL_OPTION_AVAILABILITY_FREE" = "Serbest";
+
+/* Busy */
+"CAL_OPTION_AVAILABILITY_BUSY" = "Meşgul";
+
+/* No Upcoming Movies */
+"NO_UPCOMING_MOVIES" = "No Upcoming Movies";
+
+/* Trailer */
+"MOVIE_INFO_TRAILER_BUTTON_TITLE" = "Trailer";
+
+/* Information */
+"MOVIE_INFORMATION_TITLE" = "Bilgi";
+
+/* Overview */
+"MOVIE_OVERVIEW_TITLE" = "Genel Bakış";
+
+/* Today */
+"MOVIE_STATUS_TODAY" = "Bugün";
+
+/* Tomorrow */
+"MOVIE_STATUS_TOMORROW" = "Yarın";
+
+/* Movies */
+"MOVIES_TITLE" = "Filmler";
+
+/* No Movies */
+"NO_MOVIES_FOUND" = "Film Yok";
+
+/* No Shows */
+"NO_SHOWS_FOUND" = "Gösteri Yok";
+
+/* [Ready Player One] opens tomorrow */
+"NOTIFICATION.MOVIE.OPENS.TOMORROW" = "%@ opens tomorrow";
+
+/* [Ready Player One] opens today */
+"NOTIFICATION.MOVIE.OPENS.TODAY" = "%@ opens today";
+
+/* [Ready Player One] opened yesterday */
+"NOTIFICATION.MOVIE.OPENS.YESTERDAY" = "%@ opened yesterday";
+
+/* Notifications Enabled */
+"NOTIFICATIONS_ENABLED" = "Bildirimler Etkin";
+
+/* Notification Offset */
+"NOTIFICATIONS_OFFSET" = "Bildirim Kaydırma";
+
+/* Day After */
+"OFFSET_AFTER_THE_MOVIE_BUTTON" = "Day After";
+
+/* Day Before */
+"OFFSET_BEFORE_THE_MOVIE_BUTTON" = "Day Before";
+
+/* Day Of */
+"OFFSET_DAY_OF_MOVIE_BUTTON" = "Day Of";
+
+/* Offset */
+"OFFSET_TITLE" = "Kaydırma";
+
+/* Find Movies You Watch */
+"ONBOARD_TITLE" = "İzlediğiniz Filmleri Bulun";
+
+/* Movies */
+"PROFILE_HEADER_MOVIES" = "Filmler";
+
+/* Shows */
+"PROFILE_HEADER_SHOWS" = "Gösteriler";
+
+/* No Description */
+"PROFILE_NO_DESCRIPTION" = "Açıklama Yok";
+
+/* Unwatch */
+"ROW_ACTION_UNWATCH" = "İzleme";
+
+/* Watch */
+"ROW_ACTION_WATCH" = "İzle";
+
+/* Watchlist */
+"ROW_ACTION_WATCHLIST" = "İzleme Listesi";
+
+/* No Search Results Found */
+"SEARCH_SEARCH_RESULTS_FOUND" = "Arama Sonucu Bulunamadı";
+
+/* Enabled */
+"SETTING_ENABLED" = "Etkin";
+
+/* Social */
+"SETTINGS.SOCIAL.TITLE" = "Sosyal";
+
+/* About */
+"SETTINGS_ABOUT" = "Hakkında";
+
+/* Credits */
+"SETTINGS_ABOUT_CREDITS_TITLE" = "Krediler";
+
+/* About Cinema Time */
+"SETTINGS_ABOUT_TELEVISION_TIME_TITLE" = "About Cinema Time";
+
+/* Backups */
+"SETTINGS_BACKUP_TITLE" = "Backups";
+
+/* Adds a badge over the app icon with the number of movies to watch */
+"SETTINGS_BADGE_FOOTER" = "Adds a badge over the app icon with the number of movies not watched but that have been released.";
+
+/* Sync with Calendar */
+"SETTINGS_CALENDAR_SYNC_TITLE" = "Takvim ile Eş Zamanla";
+
+/* Calendar */
+"SETTINGS_CALENDAR_TITLE" = "Takvim";
+
+/* Follow on Twitter */
+"SETTINGS_FOLLOW_ON_TWITTER_TITLE" = "Twitter'da Takip Edin";
+
+/* Help Translate */
+"SETTINGS_HELP_LOCALIZE" = "Çeviriye Yardım Edin";
+
+/* Hide Spoilers */
+"SETTINGS_HIDE_SPOILERS_TITLE" = "Spoiler'ları Gizle";
+
+/* Hide Movie Ratings */
+"SETTINGS_HIDE_MOVIE_RATINGS_TITLE" = "Hide Movie Ratings";
+
+/* Image Settings */
+"SETTINGS_IMAGE_SETTINGS_TITLE" = "Görüntü Ayarları";
+
+/* iTunes Store */
+"SETTINGS_ITUNES_STORE_TITLE" = "iTunes Mağazası";
+
+/* Language */
+"SETTINGS_LANGAUGE_TITLE" = "Dil";
+
+/* Links */
+"SETTINGS_LINKS_TITLE" = "Bağlantılar";
+
+/* Notifications */
+"SETTINGS_NOTIFICATIONS_TITLE" = "Bildirimler";
+
+/* Rate Cinema Time */
+"SETTINGS_RATE_TELEVISION_TIME_TITLE" = "Rate Cinema Time";
+
+/* Send Feedback */
+"SETTINGS_SEND_FEEDBACK_TITLE" = "Geri Bildirim Gönder";
+
+/* Share Cinema Time */
+"SETTINGS_SHARE_TELEVISION_TIME" = "Share Cinema Time";
+
+/* Settings */
+"SETTINGS_TITLE" = "Ayarlar";
+
+/* Delete from My Device */
+"SIGN_OUT_ACTION_DELETE_MOVIES" = "Delete from My Device";
+
+/* Keep on My Device */
+"SIGN_OUT_ACTION_KEEP_MOVIES" = "Keep on My Device";
+
+/* What would you like to do with the previously synced Trakt movies on your device? */
+"SIGN_OUT_ALERT_MESSAGE" = "What would you like to do with the previously synced Trakt movies on your device?";
+
+/* Movie History */
+"STAT_MOVIE_HISTORY" = "Film Geçmişi";
+
+/* Movies Not Seen */
+"STAT_MOVIES_NOT_SEEN" = "İzlenmemiş Film";
+
+/* Movies Seen */
+"STAT_MOVIES_SEEN" = "İzlenmiş Film";
+
+/* Time Watching Movies */
+"STAT_TIME_WATCHING_MOVIES" = "Film İzlemeyle Geçirilen Zaman";
+
+/* Total Movies */
+"STAT_TOTAL_MOVIES" = "Toplam Film";
+
+/* Upcoming Movies */
+"STAT_UPCOMING_MOVIES" = "Gelecek Filmler";
+
+/* Stats */
+"STATS_TITLE" = "İstatistikler";
+
+/* Statistics */
+"STATISTICS_TITLE" = "İstatistikler";
+
+/* Overview */
+"TITLE_OVERVIEW" = "Genel bakış";
+
+/* To be announced */
+"TITLE_TO_BE_ANNOUNCED" = "Duyurulacak";
+
+/* Tip the Developer */
+"TIP_THE_DEVELOPER_TITLE" = "Geliştiriciye Öneri Ver";
+
+/* Become a patron */
+"TIP_THE_DEVELOPER_BECOME_PATRON_HEADER" = "Become a patron";
+
+/* To Watch */
+"TO_WATCH_TITLE" = "İzlenecekler";
+
+/* Swipe movie to unhide */
+"TRAKT_HIDDEN_MOVIES_FOOTER" = "Filmi görünür yapmak için yana kaydırın";
+
+/* Last synced on [Monday, March 21] at [8:00 AM] */
+"TRAKT_LAST_SYNCED" = "Son eş zamanlama: %@ %@";
+
+/* Never synced */
+"TRAKT_NEVER_SYNCED" = "Hiç eş zamanlanmadı";
+
+/* Sign in to %@ */
+"TRAKT_SIGN_IN_TO" = "Giriş yap: %@";
+
+/* Sign out of %@ */
+"TRAKT_SIGN_OUT_OF" = "Çıkış yap: %@";
+
+/* Sync Options */
+"TRAKT_SYNC_OPTIONS" = "Eşitleme Seçenekleri";
+
+/* Sync with Trakt */
+"TRAKT_SYNC_WITH_TRAKT" = "Trakt ile Eşitle";
+
+/* Syncing... */
+"TRAKT_SYNCING" = "Eşitleniyor...";
+
+/* Follow @Movie_App */
+"TWITTER_FOLLOW_TITLE" = "Takip et: %@";
+
+/* Which account would you like to follow @Movie_App with */
+"TWITTER_FOLLOW_MESSAGE" = "%@'i hangi hesabınızla takip etmek istersiniz?";

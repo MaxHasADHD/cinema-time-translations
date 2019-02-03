@@ -1,0 +1,605 @@
+/* Special Thanks */
+"ABOUT_SPECIAL_THANKS_SECTION_TITLE" = "特别感谢";
+
+/* Double tap to mark as watched */
+"ACCESSIBILITY_HINT_MOVIE_NOT_WATCHED" = "双击以标记为已观看";
+
+/* Double tap to mark as unwatched */
+"ACCESSIBILITY_HINT_MOVIE_WATCHED" = "双击以标记为未观看";
+
+/* No overview availiable yet. */
+"ACCESSIBILITY_LABEL_NO_OVERVIEW" = "暂无简介";
+
+/* Movie not watched */
+"ACCESSIBILITY_VALUE_MOVIE_NOT_WATCHED" = "未观看电影";
+
+/* Movie Watched */
+"ACCESSIBILITY_VALUE_MOVIE_WATCHED" = "已观看电影";
+
+/* Birthday Unknown */
+"ACTOR_BIRTHDAY_UNKNOWN" = "生日未知";
+
+/* Importing */
+"ALERT.TITLE.IMPORTING" = "导入";
+
+/* Local data exists */
+"ALERT.TITLE.LOCAL_DATA_EXISTS" = "存在本地数据";
+
+/* Cancel */
+"ALERT_ACTION_CANCEL" = "取消";
+
+/* Delete */
+"ALERT_ACTION_DELETE" = "删除";
+
+/* Dismiss */
+"ALERT_ACTION_DISMISS" = "忽略";
+
+/* Edit */
+"ALERT_ACTION_EDIT" = "编辑";
+
+/* Mark as Unwatched Now */
+"ALERT_ACTION_MARK_AS_UNWATCHED_NOW" = "标记为未观看";
+
+/* Mark as Watched Now */
+"ALERT_ACTION_MARK_AS_WATCHED_NOW" = "标记为已观看";
+
+/* Mark as Watched On Custom Date */
+"ALERT_ACTION_MARK_AS_WATCHED_ON_CUSTOM_DATE" = "标记为在自定义日期观看";
+
+/* Mark as Watched On Release Date */
+"ALERT_ACTION_MARK_AS_WATCHED_ON_RELEASE_DATE" = "标记为在上映首日观看";
+
+/* No */
+"ALERT_ACTION_NO" = "否";
+
+/* Save poster */
+"ALERT_ACTION_COPY_POSTER" = "Save poster";
+
+/* Copy poster */
+"ALERT_ACTION_SAVE_POSTER" = "Copy poster";
+
+/* Yes */
+"ALERT_ACTION_YES" = "是";
+
+/* Please Wait... */
+"ALERT.MESSAGE.PLEASE_WAIT" = "请稍等...";
+
+/* Would you like to overwrite this data? */
+"ALERT.MESSAGE.LOCAL_DATA_EXISTS" = "您想要覆盖此数据吗？";
+
+/* No iCloud account found */
+"ALERT_MESSAGE_ICLOUD_SIGN_IN" = "没有发现 iCloud 帐户";
+
+/* Please make sure you are connected to the internet */
+"ALERT_MESSAGE_NO_INTERNET" = "请确保您已连接到互联网";
+
+/* No Results for %@ were found. */
+"ALERT_MESSAGE_NO_RESULTS" = "没有找到关于 %@ 的结果";
+
+/* Searching iTunes */
+"ALERT_MESSAGE_SEARCHING_ITUNES" = "搜索 iTunes";
+
+/* Error */
+"ALERT_TITLE_ERROR" = "错误";
+
+/* Failed to create calendar */
+"ALERT_TITLE_FAILED_TO_CREATE_CALENDAR" = "创建日历失败";
+
+/* Please Sign In to iCloud */
+"ALERT_TITLE_ICLOUD_SIGN_IN" = "请登录到 iCloud";
+
+/* No Internet Connection */
+"ALERT_TITLE_NO_INTERNET" = "无网络连接";
+
+/* No Results */
+"ALERT_TITLE_NO_RESULTS" = "无结果";
+
+/* Syncing with iCloud */
+"ALERT_TITLE_SYNCING_WITH_ICLOUD" = "与 iCloud 同步";
+
+/* Please turn off iCloud sync before syncing with Trakt.tv */
+"ALERT_TITLE_TURN_OFF_ICLOUD" = "在同步 Trakt.tv 前，请关闭 iCloud 同步";
+
+/* Back */
+"BACK_BAR_ITEM_BACK" = "返回";
+
+/* Backup */
+"BACKUPS_ACTION_BACKUP" = "备份";
+
+/* Export */
+"BACKUPS_ACTION_EXPORT" = "导出";
+
+/* Restore */
+"BACKUPS_ACTION_RESTORE" = "恢复";
+
+/* Import Backup */
+"BACKUPS_ACTION_IMPORT_BACKUP" = "导入备份";
+
+/* No Backups Available */
+"BACKUPS_NO_BACKUP_AVAILABLE" = "没有可用的备份";
+
+/* Backups */
+"BACKUPS_TITLE" = "备份";
+
+/* Badge App Icon Enabled */
+"BADGE_ENABLED" = "启用应用图标角标";
+
+/* Create */
+"BAR_BUTTON_ITEM_CREATE_LIST" = "创建";
+
+/* Cast */
+"CAST_CREW_HEADER_TITLE_CAST" = "演员表";
+
+/* Crew */
+"CAST_CREW_HEADER_TITLE_CREW" = "工作人员";
+
+/* Cast & Crew */
+"CAST_CREW_NAVIGATION_TITLE" = "演职人员";
+
+/* No Cast Information */
+"CAST_CREW_NO_CAST" = "没有演员信息";
+
+/* No Crew Information */
+"CAST_CREW_NO_CREW" = "没有工作人员信息";
+
+/* Sync with Cloud */
+"CLOUD_SYNC_WITH_CLOUD" = "与云端同步";
+
+/* No Comments */
+"COMMENTS_NO_COMMENTS" = "没有评论";
+
+/* Comments */
+"COMMENTS_TITLE" = "评论";
+
+/* Anonymous */
+"COMMENTS_ANONYMOUS_NAME" = "匿名";
+
+/* Pick Date */
+"DATE_PICKER_TITLE" = "选择日期";
+
+/* Collection of movies from every list */
+"DEFAULT_LIST_DESCRIPTION" = "所有列表中的电影集合";
+
+/* All Movies */
+"DEFAULT_LIST_TITLE" = "所有电影";
+
+/* Box Office */
+"DISCOVER_SOURCE_BOX_OFFICE_TITLE" = "票房";
+
+/* Popular */
+"DISCOVER_SOURCE_POPULAR_TITLE" = "流行";
+
+/* Trending */
+"DISCOVER_SOURCE_TRENDING_TITLE" = "趋势";
+
+/* Discover */
+"DISCOVER_TITLE" = "发现";
+
+/* View All */
+"DISCOVER.ACTION.VIEW_ALL" = "View All";
+
+/* Allow Comments */
+"EDIT_LISTS_OPTION_ALLOW_COMMENTS" = "允许评论";
+
+/* Display Rank */
+"EDIT_LISTS_OPTION_DISPLAY_RANK" = "显示排名";
+
+/* Friends */
+"EDIT_LISTS_OPTION_PRIVACY_FRIENDS" = "好友";
+
+/* Private */
+"EDIT_LISTS_OPTION_PRIVACY_PRIVATE" = "私人";
+
+/* Public */
+"EDIT_LISTS_OPTION_PRIVACY_PUBLIC" = "公开";
+
+/* New List */
+"EDIT_LISTS_TITLE" = "新建列表";
+
+/* Empty */
+"EMPTY_TITLE" = "空";
+
+/* Failed to load */
+"FAILED_TO_LOAD" = "加载失败";
+
+/* Used as a title in a table view cell / navigation bar */
+"HIDDEN_MOVIES.TITLE" = "已隐藏电影";
+
+/* Used as a title in a table view cell / navigation bar */
+"HISTORY.TITLE" = "历史记录";
+
+/* Image cache size */
+"IMAGE_SETTINGS_CACHE_SIZE" = "图片缓存容量";
+
+/* Clear and Redownload images */
+"IMAGE_SETTINGS_CLEAR_IMAGES" = "清除并重新加载图片";
+
+/* XML file is in incorrect format */
+"IMPORT.ERROR.XML_WRONG_FORMAT" = "XML 文件格式不正确";
+
+/* Skip */
+"IMPORT.SKIP" = "跳过";
+
+/* Automatic */
+"LANGUAGE_OPTION_AUTOMATIC" = "自动";
+
+/* Handoff will share the selected URL to your other devices to open */
+"LINKS_HANDOFF_EXPLANATION" = "Handoff 会将选中的 URL 分享给您的其他设备打开";
+
+/* Handoff */
+"LINKS_HANDOFF_TITLE" = "Handoff";
+
+/* None */
+"LINKS_OPTION_NONE" = "无";
+
+/* Sharing */
+"LINKS_SHARING_TITLE" = "分享";
+
+/* Edit Lists */
+"LISTS.EDIT" = "编辑列表";
+
+/* Lists */
+"LISTS_TITLE" = "列表";
+
+/* Loading... */
+"LOADING_TITLE" = "正在加载...";
+
+/* Mark as Watched */
+"LONG_PRESS_MOVIE_WATCH" = "标记为已观看";
+
+/* Action menu item for long-press / 3D touch on top of a movie */
+"MOVIE.ACTION.ADD_TO_COLLECTION" = "添加到集合";
+
+/* Add to Watchlist */
+"MOVIE.ACTION.ADD_TO_WATCHLIST" = "添加到待观看列表";
+
+/* Checkin */
+"MOVIE.ACTION.CHECKIN" = "登记";
+
+/* Cancel Checkin */
+"MOVIE.ACTION.CANCEL_CHECKIN" = "取消登记";
+
+/* Finish Checkin */
+"MOVIE.ACTION.FINISH_CHECKIN" = "完成登记";
+
+/* Remove All Plays */
+"MOVIE.ACTION.REMOVE_ALL_PLAYS" = "移除所有作品";
+
+/* Action menu item for long-press / 3D touch on top of a movie */
+"MOVIE.ACTION.REMOVE_FROM_WATCHLIST" = "从待观看列表中移除";
+
+/* Action menu item for long-press / 3D touch on top of a movie */
+"MOVIE.ACTION.REMOVE_FROM_COLLECTION" = "从集合中移除";
+
+/* Remove Last Play */
+"MOVIE.ACTION.REMOVE_LAST_PLAY" = "移除上一个作品";
+
+/* View Plays */
+"MOVIE.ACTION.VIEW_PLAYS" = "查看作品";
+
+/* Used when long-pressing / 3D Touching on top of a movie */
+"MOVIE.ACTION.WATCH.OPTIONS" = "观看选项";
+
+/* Mark as Unwatched */
+"MOVIE_ACTION_MARK_AS_UNWATCHED" = "标记为未观看";
+
+/* Mark as Watched */
+"MOVIE_ACTION_MARK_AS_WATCHED" = "标记为已观看";
+
+/* Cast & Crew */
+"MOVIE_INFO_CAST_CREW_BUTTON_TITLE" = "演职人员";
+
+/* Certification */
+"MOVIE_INFO_CERTIFICATION_TITLE" = "分级";
+
+/* Comments */
+"MOVIE_INFO_COMMENTS_BUTTON_TITLE" = "评论";
+
+/* Genres */
+"MOVIE_INFO_GENRES_TITLE" = "类型";
+
+/* No Genres */
+"MOVIE_INFO_NO_GENRES" = "无类型";
+
+/* Not Available */
+"MOVIE_INFO_NOT_AVAILABLE" = "暂无";
+
+/* Not Rated Yet */
+"MOVIE_INFO_NOT_RATED_TITLE" = "暂未分级";
+
+/* Content title; Used on Movie information detail view */
+"MOVIE_INFO_OVERVIEW_TITLE" = "简介";
+
+/* Rated */
+"MOVIE_INFO_RATING_TITLE" = "分级";
+
+/* Content title; Used on Movie information detail view */
+"MOVIE_INFO_RELEASE_DATE_TITLE" = "上映日期";
+
+/* Content title; Used on Movie information detail view */
+"MOVIE_INFO_RELEASE_DATE_UPCOMING_TITLE" = "上映日期";
+
+/* Content title; Used on Movie information detail view */
+"MOVIE_INFO_RUNTIME_TITLE" = "片长";
+
+/* Button title; Used throughout the App */
+"MOVIE_INFO_SHARE_BUTTON_TITLE" = "分享";
+
+/* Open in iTunes */
+"MOVIE_INFO_STORE_BUTTON_TITLE" = "在 iTunes 中打开";
+
+/* Filter by */
+"MOVIES.FILTER.TITLE" = "筛选";
+
+/* Filter movies by all; action menu item */
+"MOVIES.FILTER.OPTION.ALL" = "所有";
+
+/* Filter movies to show only the watched ones; action menu item */
+"MOVIES.FILTER.OPTION.WATCHED" = "已观看";
+
+/* Filtersmovies to show only the unwatched ones; action menu item */
+"MOVIES.FILTER.OPTION.NOT_WATCHED" = "未观看";
+
+/* Filter movies to show which ones have already been released; action menu item */
+"MOVIES.FILTER.OPTION.RELEASED" = "已上映";
+
+/* Filter movies to show which ones have not been released; action menu item */
+"MOVIES.FILTER.OPTION.NOT_RELEASED" = "即将上映";
+
+/* Sort by */
+"MOVIES.SORT.TITLE" = "排序";
+
+/* Rank */
+"MOVIES.SORT.OPTION.RANK" = "等级";
+
+/* Alphabetical */
+"MOVIES.SORT.OPTION.ALPHABETICAL" = "按字母顺序";
+
+/* Release Date Ascending */
+"MOVIES.SORT.OPTION.RELEASE_DATE_ASCENDING" = "按上映日期升序";
+
+/* Release Date Descending */
+"MOVIES.SORT.OPTION.RELEASE_DATE_DESCENDING" = "按上映日期降序";
+
+/* Watched date */
+"MOVIES.SORT.OPTION.WATCHED_DATE" = "按观看日期";
+
+/* Runtime */
+"MOVIES.SORT.OPTION.RUNTIME" = "按片长";
+
+/* Genre */
+"MOVIES.SORT.OPTION.GENRE" = "按类型";
+
+/* Rating */
+"MOVIES.SORT.OPTION.RATING" = "按评分";
+
+/* Rebuild Calendar */
+"CAL_ACTION_REBUILD" = "重建日历";
+
+/* Free */
+"CAL_OPTION_AVAILABILITY_FREE" = "空闲";
+
+/* Busy */
+"CAL_OPTION_AVAILABILITY_BUSY" = "繁忙";
+
+/* No Upcoming Movies */
+"NO_UPCOMING_MOVIES" = "No Upcoming Movies";
+
+/* Trailer */
+"MOVIE_INFO_TRAILER_BUTTON_TITLE" = "Trailer";
+
+/* Information */
+"MOVIE_INFORMATION_TITLE" = "信息";
+
+/* Overview */
+"MOVIE_OVERVIEW_TITLE" = "简介";
+
+/* Today */
+"MOVIE_STATUS_TODAY" = "今天";
+
+/* Tomorrow */
+"MOVIE_STATUS_TOMORROW" = "明天";
+
+/* Movies */
+"MOVIES_TITLE" = "电影";
+
+/* No Movies */
+"NO_MOVIES_FOUND" = "无电影";
+
+/* No Shows */
+"NO_SHOWS_FOUND" = "无节目";
+
+/* [Ready Player One] opens tomorrow */
+"NOTIFICATION.MOVIE.OPENS.TOMORROW" = "%@ 明日上映";
+
+/* [Ready Player One] opens today */
+"NOTIFICATION.MOVIE.OPENS.TODAY" = "%@ 今日上映";
+
+/* [Ready Player One] opened yesterday */
+"NOTIFICATION.MOVIE.OPENS.YESTERDAY" = "%@ 昨日上映";
+
+/* Notifications Enabled */
+"NOTIFICATIONS_ENABLED" = "启用通知";
+
+/* Notification Offset */
+"NOTIFICATIONS_OFFSET" = "通知时间偏移";
+
+/* Day After */
+"OFFSET_AFTER_THE_MOVIE_BUTTON" = "Day After";
+
+/* Day Before */
+"OFFSET_BEFORE_THE_MOVIE_BUTTON" = "Day Before";
+
+/* Day Of */
+"OFFSET_DAY_OF_MOVIE_BUTTON" = "Day Of";
+
+/* Offset */
+"OFFSET_TITLE" = "时间偏移";
+
+/* Find Movies You Watch */
+"ONBOARD_TITLE" = "查找您要看的电影";
+
+/* Movies */
+"PROFILE_HEADER_MOVIES" = "电影";
+
+/* Shows */
+"PROFILE_HEADER_SHOWS" = "节目";
+
+/* No Description */
+"PROFILE_NO_DESCRIPTION" = "没有说明";
+
+/* Unwatch */
+"ROW_ACTION_UNWATCH" = "未观看";
+
+/* Watch */
+"ROW_ACTION_WATCH" = "观看";
+
+/* Watchlist */
+"ROW_ACTION_WATCHLIST" = "待观看列表";
+
+/* No Search Results Found */
+"SEARCH_SEARCH_RESULTS_FOUND" = "未找到搜索结果";
+
+/* Enabled */
+"SETTING_ENABLED" = "已启用";
+
+/* Social */
+"SETTINGS.SOCIAL.TITLE" = "社交";
+
+/* About */
+"SETTINGS_ABOUT" = "关于";
+
+/* Credits */
+"SETTINGS_ABOUT_CREDITS_TITLE" = "版权信息";
+
+/* About Cinema Time */
+"SETTINGS_ABOUT_TELEVISION_TIME_TITLE" = "关于 Cinema Time";
+
+/* Backups */
+"SETTINGS_BACKUP_TITLE" = "Backups";
+
+/* Adds a badge over the app icon with the number of movies to watch */
+"SETTINGS_BADGE_FOOTER" = "在应用程序图标上添加角标以显示已上映但未观看的电影数量。";
+
+/* Sync with Calendar */
+"SETTINGS_CALENDAR_SYNC_TITLE" = "与日历同步";
+
+/* Calendar */
+"SETTINGS_CALENDAR_TITLE" = "日历";
+
+/* Follow on Twitter */
+"SETTINGS_FOLLOW_ON_TWITTER_TITLE" = "关注 Twitter";
+
+/* Help Translate */
+"SETTINGS_HELP_LOCALIZE" = "帮助翻译";
+
+/* Hide Spoilers */
+"SETTINGS_HIDE_SPOILERS_TITLE" = "隐藏剧透";
+
+/* Hide Movie Ratings */
+"SETTINGS_HIDE_MOVIE_RATINGS_TITLE" = "Hide Movie Ratings";
+
+/* Image Settings */
+"SETTINGS_IMAGE_SETTINGS_TITLE" = "图片设置";
+
+/* iTunes Store */
+"SETTINGS_ITUNES_STORE_TITLE" = "iTunes 商店";
+
+/* Language */
+"SETTINGS_LANGAUGE_TITLE" = "语言";
+
+/* Links */
+"SETTINGS_LINKS_TITLE" = "链接";
+
+/* Notifications */
+"SETTINGS_NOTIFICATIONS_TITLE" = "通知";
+
+/* Rate Cinema Time */
+"SETTINGS_RATE_TELEVISION_TIME_TITLE" = "评价 Cinema Time";
+
+/* Send Feedback */
+"SETTINGS_SEND_FEEDBACK_TITLE" = "发送反馈";
+
+/* Share Cinema Time */
+"SETTINGS_SHARE_TELEVISION_TIME" = "分享 Cinema Time";
+
+/* Settings */
+"SETTINGS_TITLE" = "设置";
+
+/* Delete from My Device */
+"SIGN_OUT_ACTION_DELETE_MOVIES" = "Delete from My Device";
+
+/* Keep on My Device */
+"SIGN_OUT_ACTION_KEEP_MOVIES" = "Keep on My Device";
+
+/* What would you like to do with the previously synced Trakt movies on your device? */
+"SIGN_OUT_ALERT_MESSAGE" = "What would you like to do with the previously synced Trakt movies on your device?";
+
+/* Movie History */
+"STAT_MOVIE_HISTORY" = "电影历史";
+
+/* Movies Not Seen */
+"STAT_MOVIES_NOT_SEEN" = "未观看电影数";
+
+/* Movies Seen */
+"STAT_MOVIES_SEEN" = "已观看电影数";
+
+/* Time Watching Movies */
+"STAT_TIME_WATCHING_MOVIES" = "观看电影总时长";
+
+/* Total Movies */
+"STAT_TOTAL_MOVIES" = "总电影数";
+
+/* Upcoming Movies */
+"STAT_UPCOMING_MOVIES" = "即将上映电影数";
+
+/* Stats */
+"STATS_TITLE" = "统计";
+
+/* Statistics */
+"STATISTICS_TITLE" = "统计数据";
+
+/* Overview */
+"TITLE_OVERVIEW" = "简介";
+
+/* To be announced */
+"TITLE_TO_BE_ANNOUNCED" = "待定";
+
+/* Tip the Developer */
+"TIP_THE_DEVELOPER_TITLE" = "赞助开发者";
+
+/* Become a patron */
+"TIP_THE_DEVELOPER_BECOME_PATRON_HEADER" = "Become a patron";
+
+/* To Watch */
+"TO_WATCH_TITLE" = "待观看";
+
+/* Swipe movie to unhide */
+"TRAKT_HIDDEN_MOVIES_FOOTER" = "滑动以取消隐藏";
+
+/* Last synced on [Monday, March 21] at [8:00 AM] */
+"TRAKT_LAST_SYNCED" = "上次同步上在 %@ 的 %@";
+
+/* Never synced */
+"TRAKT_NEVER_SYNCED" = "从未同步";
+
+/* Sign in to %@ */
+"TRAKT_SIGN_IN_TO" = "登录 %@";
+
+/* Sign out of %@ */
+"TRAKT_SIGN_OUT_OF" = "登出 %@";
+
+/* Sync Options */
+"TRAKT_SYNC_OPTIONS" = "同步选项";
+
+/* Sync with Trakt */
+"TRAKT_SYNC_WITH_TRAKT" = "与 Trakt 同步";
+
+/* Syncing... */
+"TRAKT_SYNCING" = "正在同步...";
+
+/* Follow @Movie_App */
+"TWITTER_FOLLOW_TITLE" = "关注 %@";
+
+/* Which account would you like to follow @Movie_App with */
+"TWITTER_FOLLOW_MESSAGE" = "您想使用哪个帐户来关注 %@ ？";
