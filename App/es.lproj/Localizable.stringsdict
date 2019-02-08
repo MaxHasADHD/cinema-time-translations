@@ -6,7 +6,7 @@
     <key>MOVIE_INFO_RUNTIME_MINUTES</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@minutes@</string>
+      <string>%#@minutos@</string>
       <key>minutes</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -22,7 +22,7 @@
     <key>MOVIE_STATUS_NUMBER_OF_DAYS</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@days@</string>
+      <string>%#@días@</string>
       <key>days</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -38,7 +38,7 @@
     <key>DATE_PICKER.ACTION.MINUTES_BEFORE</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@minutes@ antes</string>
+      <string>%#@minutos@ antes</string>
       <key>minutes</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -54,7 +54,7 @@
     <key>DATE_PICKER.ACTION.HOURS_BEFORE</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@hours@ antes</string>
+      <string>%#@horas@ antes</string>
       <key>hours</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
