@@ -431,7 +431,7 @@
 "OFFSET_BEFORE_THE_MOVIE_BUTTON" = "Día Anterior";
 
 /* Day Of */
-"OFFSET_DAY_OF_MOVIE_BUTTON" = "Dia de;
+"OFFSET_DAY_OF_MOVIE_BUTTON" = "Dia de";
 
 /* Offset */
 "OFFSET_TITLE" = "Desplazar";
