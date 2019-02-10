@@ -30,15 +30,15 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>%d day</string>
+        <string>%d jour</string>
         <key>other</key>
-        <string>%d days</string>
+        <string>%d jours</string>
       </dict>
     </dict>
     <key>DATE_PICKER.ACTION.MINUTES_BEFORE</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@minutes@ before</string>
+      <string>%#@minutes@ avant</string>
       <key>minutes</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -54,7 +54,7 @@
     <key>DATE_PICKER.ACTION.HOURS_BEFORE</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@hours@ before</string>
+      <string>%#@hours@ avant</string>
       <key>hours</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -62,9 +62,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>%d Hour</string>
+        <string>%d Heure</string>
         <key>other</key>
-        <string>%d Hours</string>
+        <string>%d Heures</string>
       </dict>
     </dict>
   </dict>

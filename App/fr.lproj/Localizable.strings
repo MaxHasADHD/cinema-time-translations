@@ -38,7 +38,7 @@
 "ALERT_ACTION_EDIT" = "Éditer";
 
 /* Mark as Unwatched Now */
-"ALERT_ACTION_MARK_AS_UNWATCHED_NOW" = "Marquer comme non visionné";
+"ALERT_ACTION_MARK_AS_UNWATCHED_NOW" = "Marquer comme non visionné maintenant";
 
 /* Mark as Watched Now */
 "ALERT_ACTION_MARK_AS_WATCHED_NOW" = "Marquer comme visionné maintenant";
@@ -176,7 +176,7 @@
 "DISCOVER_TITLE" = "Découvrir";
 
 /* View All */
-"DISCOVER.ACTION.VIEW_ALL" = "View All";
+"DISCOVER.ACTION.VIEW_ALL" = "Voir tout";
 
 /* Allow Comments */
 "EDIT_LISTS_OPTION_ALLOW_COMMENTS" = "Autoriser les commentaires";
@@ -257,121 +257,121 @@
 "MOVIE.ACTION.CHECKIN" = "Checkin";
 
 /* Cancel Checkin */
-"MOVIE.ACTION.CANCEL_CHECKIN" = "Cancel Checkin";
+"MOVIE.ACTION.CANCEL_CHECKIN" = "Annuler le checkin";
 
 /* Finish Checkin */
-"MOVIE.ACTION.FINISH_CHECKIN" = "Finish Checkin";
+"MOVIE.ACTION.FINISH_CHECKIN" = "Finir le Checkin";
 
 /* Remove All Plays */
-"MOVIE.ACTION.REMOVE_ALL_PLAYS" = "Remove All Plays";
+"MOVIE.ACTION.REMOVE_ALL_PLAYS" = "Supprimer tous les visionnages";
 
 /* Action menu item for long-press / 3D touch on top of a movie */
-"MOVIE.ACTION.REMOVE_FROM_WATCHLIST" = "Remove from Watchlist";
+"MOVIE.ACTION.REMOVE_FROM_WATCHLIST" = "Supprimer de la liste des films vus";
 
 /* Action menu item for long-press / 3D touch on top of a movie */
-"MOVIE.ACTION.REMOVE_FROM_COLLECTION" = "Remove from Collection";
+"MOVIE.ACTION.REMOVE_FROM_COLLECTION" = "Supprimer de la liste";
 
 /* Remove Last Play */
-"MOVIE.ACTION.REMOVE_LAST_PLAY" = "Remove Last Play";
+"MOVIE.ACTION.REMOVE_LAST_PLAY" = "Supprimer le dernier visionnage";
 
 /* View Plays */
-"MOVIE.ACTION.VIEW_PLAYS" = "View Plays";
+"MOVIE.ACTION.VIEW_PLAYS" = "Voir les visionnages";
 
 /* Used when long-pressing / 3D Touching on top of a movie */
-"MOVIE.ACTION.WATCH.OPTIONS" = "Watch Options";
+"MOVIE.ACTION.WATCH.OPTIONS" = "Options de visionnage";
 
 /* Mark as Unwatched */
-"MOVIE_ACTION_MARK_AS_UNWATCHED" = "Mark as Unwatched";
+"MOVIE_ACTION_MARK_AS_UNWATCHED" = "Marquer comme non visionné";
 
 /* Mark as Watched */
-"MOVIE_ACTION_MARK_AS_WATCHED" = "Mark as Watched";
+"MOVIE_ACTION_MARK_AS_WATCHED" = "Mark comme visionné";
 
 /* Cast & Crew */
-"MOVIE_INFO_CAST_CREW_BUTTON_TITLE" = "Cast & Crew";
+"MOVIE_INFO_CAST_CREW_BUTTON_TITLE" = "Casting et équipe";
 
 /* Certification */
 "MOVIE_INFO_CERTIFICATION_TITLE" = "Certification";
 
 /* Comments */
-"MOVIE_INFO_COMMENTS_BUTTON_TITLE" = "Comments";
+"MOVIE_INFO_COMMENTS_BUTTON_TITLE" = "Commentaires";
 
 /* Genres */
 "MOVIE_INFO_GENRES_TITLE" = "Genres";
 
 /* No Genres */
-"MOVIE_INFO_NO_GENRES" = "No Genres";
+"MOVIE_INFO_NO_GENRES" = "Aucun genre";
 
 /* Not Available */
-"MOVIE_INFO_NOT_AVAILABLE" = "Not Available";
+"MOVIE_INFO_NOT_AVAILABLE" = "Non disponible";
 
 /* Not Rated Yet */
-"MOVIE_INFO_NOT_RATED_TITLE" = "Not Rated Yet";
+"MOVIE_INFO_NOT_RATED_TITLE" = "Pas encore noté";
 
 /* Content title; Used on Movie information detail view */
-"MOVIE_INFO_OVERVIEW_TITLE" = "Overview";
+"MOVIE_INFO_OVERVIEW_TITLE" = "Présentation";
 
 /* Rated */
-"MOVIE_INFO_RATING_TITLE" = "Rated";
+"MOVIE_INFO_RATING_TITLE" = "Note";
 
 /* Content title; Used on Movie information detail view */
-"MOVIE_INFO_RELEASE_DATE_TITLE" = "Released";
+"MOVIE_INFO_RELEASE_DATE_TITLE" = "Date de sortie";
 
 /* Content title; Used on Movie information detail view */
-"MOVIE_INFO_RELEASE_DATE_UPCOMING_TITLE" = "Releases";
+"MOVIE_INFO_RELEASE_DATE_UPCOMING_TITLE" = "Sortie prévue";
 
 /* Content title; Used on Movie information detail view */
-"MOVIE_INFO_RUNTIME_TITLE" = "Runtime";
+"MOVIE_INFO_RUNTIME_TITLE" = "Durée";
 
 /* Button title; Used throughout the App */
-"MOVIE_INFO_SHARE_BUTTON_TITLE" = "Share";
+"MOVIE_INFO_SHARE_BUTTON_TITLE" = "Partager";
 
 /* Open in iTunes */
-"MOVIE_INFO_STORE_BUTTON_TITLE" = "Open in iTunes";
+"MOVIE_INFO_STORE_BUTTON_TITLE" = "Ouvrir dans iTunes";
 
 /* Filter by */
-"MOVIES.FILTER.TITLE" = "Filter by";
+"MOVIES.FILTER.TITLE" = "Filtrer par";
 
 /* Filter movies by all; action menu item */
-"MOVIES.FILTER.OPTION.ALL" = "All";
+"MOVIES.FILTER.OPTION.ALL" = "Tout";
 
 /* Filter movies to show only the watched ones; action menu item */
-"MOVIES.FILTER.OPTION.WATCHED" = "Watched";
+"MOVIES.FILTER.OPTION.WATCHED" = "Visionné";
 
 /* Filtersmovies to show only the unwatched ones; action menu item */
-"MOVIES.FILTER.OPTION.NOT_WATCHED" = "Not watched";
+"MOVIES.FILTER.OPTION.NOT_WATCHED" = "Non visionné";
 
 /* Filter movies to show which ones have already been released; action menu item */
-"MOVIES.FILTER.OPTION.RELEASED" = "Released";
+"MOVIES.FILTER.OPTION.RELEASED" = "Sorti";
 
 /* Filter movies to show which ones have not been released; action menu item */
-"MOVIES.FILTER.OPTION.NOT_RELEASED" = "Upcoming";
+"MOVIES.FILTER.OPTION.NOT_RELEASED" = "À venir";
 
 /* Sort by */
-"MOVIES.SORT.TITLE" = "Sort by";
+"MOVIES.SORT.TITLE" = "Trier par";
 
 /* Rank */
-"MOVIES.SORT.OPTION.RANK" = "Rank";
+"MOVIES.SORT.OPTION.RANK" = "Classement";
 
 /* Alphabetical */
-"MOVIES.SORT.OPTION.ALPHABETICAL" = "Alphabetical";
+"MOVIES.SORT.OPTION.ALPHABETICAL" = "Ordre alphabétique";
 
 /* Release Date Ascending */
-"MOVIES.SORT.OPTION.RELEASE_DATE_ASCENDING" = "Release Date Ascending";
+"MOVIES.SORT.OPTION.RELEASE_DATE_ASCENDING" = "Date de sortie croissante";
 
 /* Release Date Descending */
-"MOVIES.SORT.OPTION.RELEASE_DATE_DESCENDING" = "Release Date Descending";
+"MOVIES.SORT.OPTION.RELEASE_DATE_DESCENDING" = "Date de sortie décroissante";
 
 /* Watched date */
-"MOVIES.SORT.OPTION.WATCHED_DATE" = "Watched date";
+"MOVIES.SORT.OPTION.WATCHED_DATE" = "Date de visionnage";
 
 /* Runtime */
-"MOVIES.SORT.OPTION.RUNTIME" = "Runtime";
+"MOVIES.SORT.OPTION.RUNTIME" = "Durée";
 
 /* Genre */
 "MOVIES.SORT.OPTION.GENRE" = "Genre";
 
 /* Rating */
-"MOVIES.SORT.OPTION.RATING" = "Rating";
+"MOVIES.SORT.OPTION.RATING" = "Note";
 
 /* Rebuild Calendar */
 "CAL_ACTION_REBUILD" = "Reconstruire le calendrier";
@@ -383,10 +383,10 @@
 "CAL_OPTION_AVAILABILITY_BUSY" = "Occupé";
 
 /* No Upcoming Movies */
-"NO_UPCOMING_MOVIES" = "No Upcoming Movies";
+"NO_UPCOMING_MOVIES" = "Pas de film à venir";
 
 /* Trailer */
-"MOVIE_INFO_TRAILER_BUTTON_TITLE" = "Trailer";
+"MOVIE_INFO_TRAILER_BUTTON_TITLE" = "Bande-annonce";
 
 /* Information */
 "MOVIE_INFORMATION_TITLE" = "Informations";
@@ -425,19 +425,19 @@
 "NOTIFICATIONS_OFFSET" = "Délai de notification";
 
 /* Day After */
-"OFFSET_AFTER_THE_MOVIE_BUTTON" = "Day After";
+"OFFSET_AFTER_THE_MOVIE_BUTTON" = "Le lendemain";
 
 /* Day Before */
-"OFFSET_BEFORE_THE_MOVIE_BUTTON" = "Day Before";
+"OFFSET_BEFORE_THE_MOVIE_BUTTON" = "La veille";
 
 /* Day Of */
-"OFFSET_DAY_OF_MOVIE_BUTTON" = "Day Of";
+"OFFSET_DAY_OF_MOVIE_BUTTON" = "Le jour même";
 
 /* Offset */
 "OFFSET_TITLE" = "Délai";
 
 /* Find Movies You Watch */
-"ONBOARD_TITLE" = "Find Movies You Watch";
+"ONBOARD_TITLE" = "Découvrir des films à regarder";
 
 /* Movies */
 "PROFILE_HEADER_MOVIES" = "Films";
@@ -473,13 +473,13 @@
 "SETTINGS_ABOUT_CREDITS_TITLE" = "Crédits";
 
 /* About Cinema Time */
-"SETTINGS_ABOUT_TELEVISION_TIME_TITLE" = "About Cinema Time";
+"SETTINGS_ABOUT_TELEVISION_TIME_TITLE" = "À propos de Cinema Time";
 
 /* Backups */
-"SETTINGS_BACKUP_TITLE" = "Backups";
+"SETTINGS_BACKUP_TITLE" = "Sauvegardes";
 
 /* Adds a badge over the app icon with the number of movies to watch */
-"SETTINGS_BADGE_FOOTER" = "Adds a badge over the app icon with the number of movies not watched but that have been released.";
+"SETTINGS_BADGE_FOOTER" = "Affiche un badge sur l'icône de l'application avec le nombre de films non visionnés qui sont sortis en salle";
 
 /* Sync with Calendar */
 "SETTINGS_CALENDAR_SYNC_TITLE" = "Synchroniser avec le calendrier";
@@ -497,7 +497,7 @@
 "SETTINGS_HIDE_SPOILERS_TITLE" = "Cacher les spoilers";
 
 /* Hide Movie Ratings */
-"SETTINGS_HIDE_MOVIE_RATINGS_TITLE" = "Hide Movie Ratings";
+"SETTINGS_HIDE_MOVIE_RATINGS_TITLE" = "Cacher les notes des films";
 
 /* Image Settings */
 "SETTINGS_IMAGE_SETTINGS_TITLE" = "Paramètres des images";
@@ -515,28 +515,28 @@
 "SETTINGS_NOTIFICATIONS_TITLE" = "Notifications";
 
 /* Rate Cinema Time */
-"SETTINGS_RATE_TELEVISION_TIME_TITLE" = "Rate Cinema Time";
+"SETTINGS_RATE_TELEVISION_TIME_TITLE" = "Noter Cinema Time";
 
 /* Send Feedback */
 "SETTINGS_SEND_FEEDBACK_TITLE" = "Donner un avis";
 
 /* Share Cinema Time */
-"SETTINGS_SHARE_TELEVISION_TIME" = "Share Cinema Time";
+"SETTINGS_SHARE_TELEVISION_TIME" = "Partager Cinema Time";
 
 /* Settings */
 "SETTINGS_TITLE" = "Réglages";
 
 /* Delete from My Device */
-"SIGN_OUT_ACTION_DELETE_MOVIES" = "Delete from My Device";
+"SIGN_OUT_ACTION_DELETE_MOVIES" = "Supprimer de mon appareil";
 
 /* Keep on My Device */
-"SIGN_OUT_ACTION_KEEP_MOVIES" = "Keep on My Device";
+"SIGN_OUT_ACTION_KEEP_MOVIES" = "Conserver sur mon appareil";
 
 /* What would you like to do with the previously synced Trakt movies on your device? */
-"SIGN_OUT_ALERT_MESSAGE" = "What would you like to do with the previously synced Trakt movies on your device?";
+"SIGN_OUT_ALERT_MESSAGE" = "Que souhaitez-vous faire des films précédemment synchronisés avec Trakt sur votre appareil ?";
 
 /* Movie History */
-"STAT_MOVIE_HISTORY" = "Movie History";
+"STAT_MOVIE_HISTORY" = "Historique des films";
 
 /* Movies Not Seen */
 "STAT_MOVIES_NOT_SEEN" = "Films non visionnés";
@@ -557,49 +557,49 @@
 "STATS_TITLE" = "Stats";
 
 /* Statistics */
-"STATISTICS_TITLE" = "Statistics";
+"STATISTICS_TITLE" = "Statistiques";
 
 /* Overview */
-"TITLE_OVERVIEW" = "Overview";
+"TITLE_OVERVIEW" = "Présentation";
 
 /* To be announced */
-"TITLE_TO_BE_ANNOUNCED" = "To be announced";
+"TITLE_TO_BE_ANNOUNCED" = "Pas encore annoncé";
 
 /* Tip the Developer */
-"TIP_THE_DEVELOPER_TITLE" = "Tip the Developer";
+"TIP_THE_DEVELOPER_TITLE" = "Encourager les développeurs";
 
 /* Become a patron */
-"TIP_THE_DEVELOPER_BECOME_PATRON_HEADER" = "Become a patron";
+"TIP_THE_DEVELOPER_BECOME_PATRON_HEADER" = "Faire un don";
 
 /* To Watch */
-"TO_WATCH_TITLE" = "To Watch";
+"TO_WATCH_TITLE" = "À visionner";
 
 /* Swipe movie to unhide */
-"TRAKT_HIDDEN_MOVIES_FOOTER" = "Swipe movie to unhide";
+"TRAKT_HIDDEN_MOVIES_FOOTER" = "Swiper pour ré-afficher";
 
 /* Last synced on [Monday, March 21] at [8:00 AM] */
-"TRAKT_LAST_SYNCED" = "Last synced on %@ at %@";
+"TRAKT_LAST_SYNCED" = "Dernière synchronisation le %@ à %@";
 
 /* Never synced */
-"TRAKT_NEVER_SYNCED" = "Never synced";
+"TRAKT_NEVER_SYNCED" = "Jamais synchronisé";
 
 /* Sign in to %@ */
-"TRAKT_SIGN_IN_TO" = "Sign in to %@";
+"TRAKT_SIGN_IN_TO" = "Se connecter à %@";
 
 /* Sign out of %@ */
-"TRAKT_SIGN_OUT_OF" = "Sign out of %@";
+"TRAKT_SIGN_OUT_OF" = "Se déconnecter de %@";
 
 /* Sync Options */
-"TRAKT_SYNC_OPTIONS" = "Sync Options";
+"TRAKT_SYNC_OPTIONS" = "Options de synchronisation";
 
 /* Sync with Trakt */
-"TRAKT_SYNC_WITH_TRAKT" = "Sync with Trakt";
+"TRAKT_SYNC_WITH_TRAKT" = "Synchroniser avec Trakt";
 
 /* Syncing... */
-"TRAKT_SYNCING" = "Syncing...";
+"TRAKT_SYNCING" = "Synchronisation...";
 
 /* Follow @Movie_App */
-"TWITTER_FOLLOW_TITLE" = "Follow %@";
+"TWITTER_FOLLOW_TITLE" = "Suivre %@";
 
 /* Which account would you like to follow @Movie_App with */
-"TWITTER_FOLLOW_MESSAGE" = "Which account would you like to follow %@ with?";
+"TWITTER_FOLLOW_MESSAGE" = "Avec quel compte souhaitez-vous suivre %@ ?";
